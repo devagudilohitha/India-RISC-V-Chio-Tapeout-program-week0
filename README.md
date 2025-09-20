@@ -4,4 +4,6 @@ RISC‑V Reference SoC Tapeout Program ,Week 0 ,Tools installation
 6GB RAM <br/> 
 50 GB<br/>
 Ubuntu 20.04+ <br/>
-4vCPU
+4vCPU<br/>
+# Tool Check:
+
